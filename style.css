@@ -1,0 +1,108 @@
+body {
+    margin: 0px;
+}
+
+.tela {
+    background-color: bisque;
+    text-align: center;
+
+}
+
+.tema {
+    font-size: 30px;
+    text-align: center;
+}
+
+.conteudo-tema {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+#img-header {
+    max-width: 400px;
+}
+.conteudo-manifesto {
+    font-size: 30px;
+}
+
+header {
+    background-color: #ecece2;
+}
+
+main {
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#valores img, #principios img {
+    max-width: 600px;
+    margin-left: 50px;
+}
+
+/* footer */
+footer {
+    background-color: #e2eaec;
+}
+
+footer section .social a {
+    color: black;
+    text-decoration: none;
+
+}
+
+footer section.copyright {
+    color: black;
+    background-color: #c7c7af;
+    text-align: center;
+    padding: 15px;
+}
+
+footer section.copyright i.fa-heart {
+    color: #f00;
+}
+
+footer .footer-content {
+    display: flex;
+    padding: 40px 15% 60px;
+    text-align: center;
+}
+
+footer .footer-content section {
+    flex-basis: calc(100% / 3);
+}
+
+footer .social .fa {
+    border: 3px solid black;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer .social .fa:hover {
+    background-color: black;
+    color: white;
+}
+
+footer .social ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+footer li {
+    padding: 15px;
+}
