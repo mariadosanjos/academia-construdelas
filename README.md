@@ -1,5 +1,5 @@
 # academia-construdelas
-Aula sobre Metodologias Ágeis
+Aula sobre Metodologias Ágeis e deploy no heroku
 
 Treinamento ConstruDelas
 
